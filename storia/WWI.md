@@ -114,6 +114,16 @@ Il governo in carica impiega le forze di polizia e l'esercito per fronteggiare i
 A Milano tra l'8 e il 9 maggio 1898 i manifestanti sono affrontati da reparti dell'esercito comandati dal generale Fiorenzo Bava-Beccaris che dà ordine di sparare colpi di artiglieria.
 Il re Umberto I gli conferisce la gran croce dell'Ordine militare di Savoia e poco dopo viene nominato senatore.
 
+In Parlamento intanto vengono presentate nuove misure repressive che intendono limitare la libertà di stampa e di associazione.
+Si oppongono molti parlamentari liberali, guidati da Giuseppe Zanardelli e Giovanni Giolitti riuscendo a impedirne l'approvazione.
+
+Il 29 luglio 1900 a Monza l'anarchico Gaetano Bresci spara al re Umberto I e lo uccide.
+Gli succede Vittorio Emanuele III e dà l'incarico di Primo ministro a Zanardelli, il quale a sua volta nomina come ministro dell'Interno Giolitti.
+
+## Il riformismo giolittiano
+
+
+
 
 
 
