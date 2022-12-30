@@ -1,7 +1,7 @@
 ---
 title: "Appunti di Storia sulla Prima Guerra Mondiale"
 author: ["Federico Zotti"]
-date: 28/12/2022
+date: 30/12/2022
 titlepage: true
 toc-own-page: true
 numbersections: true
@@ -9,11 +9,99 @@ numbersections: true
 
 
 
-# Capitolo 1: Le origini della società di massa
+# Le origini della società di massa
 
 ## Redditi e consumi
 
-Le società dell'inizio del XX secolo sono composte da una base di operai e braccianti, un ceto medio di impiegati pubblici e privati, operatori nelle industrie, contadini benestanti, ... e una élite di professionisti, imprenditori e banchieri.
+Le società dell'inizio del XX secolo hanno una struttura complessa: una base di operai e braccianti, un variegatissimo ceto medio e una élite di professionisti.
+I redditi sono buoni e i salari degli operai e dei contadini attraversano una fase piuttosto positiva.
+I prezzi dei beni sul mercato prima scendono, poi riprendono a salire ma con un ritmo più lento rispetto ai redditi.
+Aumenta dunque il numero delle famiglie che possono acquistare beni _"voluttuari"_ o di _"consumo durevole"_.
+I nuovi compratori sono molto più numerosi delle tradizionali élite della ricchezza del passato (nobili, aristocratici grandi mercanti).
+
+Si sviluppano di conseguenza i **grandi magazzini**, spazi commerciali ampi che mettono a disposizione degli acquirenti una grande varietà di merci.
+Essi riducono i prezzi perché ritengono che vendere un grande volume di merce con margini di profitto contenuti dia risultati economici migliori di quelli dei negozi che vengono pochi oggetti ad un prezzo più alto.
+Si sviluppa la regola del _prezzo fisso_, con la quale i commessi non sono autorizzati a trattare.
+È importante anche il ruolo della **pubblicità**, che è sia quello di mostrare le novità disponibili, ma anche quello di attirare e invogliare il compratore.
+
+## Divertimenti di massa
+
+Insieme al consumo di massa nasce il divertimento di massa.
+Con i soldi avanzati gli operai possono comprare i **quotidiani** o riviste specializzate.
+Si diffonde anche il **melodramma**, un dramma cantato con accompagnamento strumentali o lirico, tanto che vengono costruiti teatri un po' ovunque.
+Anche il **cinema** comincia a prendere piede e vengono costruite le prime sale cinematografiche.
+
+Il divertimento che più attira gli investimenti è però lo spettacolo sportivo.
+Lo sporto non è solo un'attività da praticare, ma può essere vissuta dall'esterno.
+Lo sport che più si diffonde in Europa è il calcio, che viene professionalizzato, quindi chi vi partecipa riceve un compenso e chi guarda paga un biglietto.
+La costruzione di uno stadio e la commercializzazione dello spettacolo sportivo dunque possono essere un buon affare.
+
+## La Chiesa cattolica di fronte al cambiamento
+
+Un altro aspetto importante è la **laicizzazione delle istituzioni statali** in Europa.
+La Chiesa cattolica oppone però una vigorosa resistenza.
+Papa Pio IX nel 1864 condanna il liberalismo, il socialismo, l'ateismo e il razionalismo.
+Il suo successore Leone XIII invece riconosce la necessità che gli imprenditori non trattino gli operai come una pura e semplice merce.
+Dà legittimità alle società mutualistiche cattoliche già formatesi in vari paesi europei.
+Si sviluppa una corrente intellettuale e politica definita **democrazia cristiana**.
+In parallelo si diffonde anche il modernismo, il quale punta ad un rinnovamento del _corpus_ dottrinale cattolico e a una più aggiornata interpretazione dei testi sacri.
+Pio X, che gli succede, invece manifesta un atteggiamento di netta chiusura, soprattutto nei confronti del modernismo.
+
+All'inizio del Novecento, in Francia viene formato un governo che si impegna nell'integrale laicizzazione della società e delle istituzioni statali francesi.
+
+# Ambizioni imperialiste e alleanze internazionali
+
+## Tensioni in Europa (1873-78)
+
+In Europa è presente un complesso insieme di tensioni e accordi internazionali che tuttavia tende lentamente a stabilizzarsi in due contrapposti sistemi di alleanze politico-militari.
+
+Dopo la vittoria della Germania nella guerra franco-prussiana, il cancelliere Bismarck (tedesco) stipula un patto di amicizia e cooperazione politico-militare tra Austria-Ungheria, Russia e Germania, la cosiddetta **Lega dei tre imperatori**.
+
+Nel 1877 la Russia dichiara guerra all'Impero ottomano.
+Essa si conclude con una disfatta ottomana e con il trattato di Santo Stefano (3 marzo 1878).
+Il trattato di pace sanciva la nascita della Bulgaria come Stato indipendente ma satellite della Russia, e l'indipendenza di Serbia, Montenegro e Romania.
+
+La presenza di questo nuovo stato destabilizza l'intera regione.
+Le grandi potenze non accettano il dominio russo sui Balcani.
+L'Austria-Ungheria mobilita il suo esercito e la flotta inglese si dirige verso Istanbul.
+La situazione viene risolta da Bismarck che riunisce a Berlino una conferenza internazionale.
+La conferenza di Berlino si conclude con un nuovo trattato di pace (13 luglio 1878) che fissa i seguenti punti:
+
+#. riconosce la piena indipendenza di **Serbia**, **Montenegro** e **Romania**;
+#. costituisce un **Principato autonomo di Bulgaria**;
+#. la **Bosnia-Erzogovina** diventa un protettorato dell'Austria-Ungheria, che la occupa militarmente;
+#. l'Impero ottomano cede **Cipro** al Regno Unito.
+
+## La riorganizzazione del sistema delle alleanze (1879-1907)
+
+La Russia decide di non rinnovare la Lega dei tre imperatori, mentre Austria-Ungheria e Germania creano la **Duplice alleanza**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
