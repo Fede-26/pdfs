@@ -76,6 +76,43 @@ La conferenza di Berlino si conclude con un nuovo trattato di pace (13 luglio 18
 
 La Russia decide di non rinnovare la Lega dei tre imperatori, mentre Austria-Ungheria e Germania creano la **Duplice alleanza**.
 
+Nel 1882 il governo italiano, guidato da Agostino Depretis, decide di aderire a questa alleanza, che viene poi indicata come **Triplice alleanza**.
+
+In Austria-Ungheria sono presenti aree con popolazioni italiane, chiamate "**terre irredente**", in particolare le città di Trento e di Trieste.
+I movimenti _irredentisti_ vorrebbero un immediato impegno per l'annessione di queste aree al Regno d'Italia.
+Nel 1882 Guglielmo Oberdan viene impiccato per aver tentato di organizzare un attentato contro l'imperatore austro-ungarico.
+
+Nonostante questo però il governo Depretis entra nella Triplice alleanza come reazione all'occupazione francese di Tunisi (1881), ritenuta dall'Italia area di propria pertinenza.
+
+Nel 1894 Francia e Russia firmano un **trattato di mutua protezione**.
+Entrambi gli Stati temono molto la Germania, la cui forza economica e militare è in crescita.
+
+Alla morte dell'imperatore di Germania Guglielmo I (1888), succede il nipote Guglielmo II.
+Nel 1890 Bismarck vien spinto a dare le dimissioni.
+Nel 1890 Guglielmo II annuncia il **_Neuer Kurs_** ("nuovo corso") della politica tedesca.
+Con esso abbandona le leggi antisocialiste di Bismarck e potenzia ulteriormente il sistema assistenziale.
+Il **Partito socialdemocratico** è ora capace di svolgere liberamente la propria attività di propaganda e nel 1912 ha la più grande rappresentanza parlamentare.
+I governi tedeschi del "nuovo corso" attuano una politica di **riarmo dell'esercito** e si avvia un grande piano di rafforzamento della marina.
+
+Questo provoca un aumento delle spese nel Regno Unito, che vuole continuare ad avere la forza della flotta militare superiore alle due potenze.
+È spinto però a riconsiderare la linea politica basata sul principio dello "_splendido isolamento_".
+
+Nel 1904 i governi di Regno Unito e Francia sottoscrivono l'**Entente cordiale**.
+il triangolo diplomatico Regno Unito, Francia e Russia si completa nel 1907 quando viene siglata un'**intesa anglo-russa**.
+
+Si sono dunque creati due sistemi di alleanza contrapposti:
+
+#. la **Triplice alleanza**: Germania, Austria-Ungheria, Italia;
+#. la **Triplice intesa**: Francia, Russia, Regno Unito.
+
+# L'età giolittiana
+
+## La crisi di fine secolo
+
+Nel 1898 in Italia, quando il prezzo del pane cresce improvvisamente scoppiano ovunque manifestazioni e proteste.
+Il governo in carica impiega le forze di polizia e l'esercito per fronteggiare i manifestanti e nei casi più gravi proclama lo stato di assedio.
+A Milano tra l'8 e il 9 maggio 1898 i manifestanti sono affrontati da reparti dell'esercito comandati dal generale Fiorenzo Bava-Beccaris che dà ordine di sparare colpi di artiglieria.
+Il re Umberto I gli conferisce la gran croce dell'Ordine militare di Savoia e poco dopo viene nominato senatore.
 
 
 
@@ -104,15 +141,9 @@ La Russia decide di non rinnovare la Lega dei tre imperatori, mentre Austria-Ung
 
 
 
+# DA TERMINARE
 
-
-
-
-
-
-
-
-
+> **_DA TERMINARE_**
 
 \newpage
 
