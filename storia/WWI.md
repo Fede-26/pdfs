@@ -114,18 +114,68 @@ Il governo in carica impiega le forze di polizia e l'esercito per fronteggiare i
 A Milano tra l'8 e il 9 maggio 1898 i manifestanti sono affrontati da reparti dell'esercito comandati dal generale Fiorenzo Bava-Beccaris che dà ordine di sparare colpi di artiglieria.
 Il re Umberto I gli conferisce la gran croce dell'Ordine militare di Savoia e poco dopo viene nominato senatore.
 
-In Parlamento intanto vengono presentate nuove misure repressive che intendono limitare la libertà di stampa e di associazione.
-Si oppongono molti parlamentari liberali, guidati da Giuseppe Zanardelli e Giovanni Giolitti riuscendo a impedirne l'approvazione.
+In Parlamento vengono presentate misure repressive per limitare la libertà di stampa e di associazione.
+Ma un buon numero di parlamentari liberali, guidati da Giuseppe Zanardelli e Giovanni Giolitti, riesce a impedirne l'approvazione.
 
-Il 29 luglio 1900 a Monza l'anarchico Gaetano Bresci spara al re Umberto I e lo uccide.
-Gli succede Vittorio Emanuele III e dà l'incarico di Primo ministro a Zanardelli, il quale a sua volta nomina come ministro dell'Interno Giolitti.
+Il 29 luglio 1900 l'anarchico Gaetano Bresci uccide il re Umberto I a Monza.
+Il figlio Vittorio Emanuele II dà l'incarico di Primo ministro a Zanardelli, il quale, come ministro dell'Interno sceglie Giolitti.
 
 ## Il riformismo giolittiano
 
+Giovanni Giolitti mette in atto un programma per l'integrazione delle masse nella cornice dello Stato liberale.
+Per ottenere questo lo stato deve essere un arbitro neutrale nelle lotte sociali.
 
+Dopo la morte di Zanardelli (26 dicembre 1903), Giolitti diventa **presidente del Consiglio**.
 
+Giolitti si adopera affinché cessi il sistematico ricorso alla forza pubblica per bloccare o disperdere gli scioperanti.
+Questo non fa altro che aumentare i conflitti di lavoro in modo significativo.
+In questa nuova stagione di conflittualità sociale, i salari industriali e agricoli aumentano significativamente e dà uno stimolo ai consumi.
 
+Nel 1902 viene istituito l'**Ufficio del Lavoro** per facilitare i rapporti di lavoro.
+Vengono introdotti limiti all'impiego delle **donne** nelle fabbriche e sul lavoro dei **bambini**.
+Vengono poste in applicazione le leggi sulle assicurazioni obbligatorie contro gli infortuni per i lavoratori dell'industria.
+Nel 1912 viene istituito l'Istituto Nazionale Assicurazioni (_Ina_).
+Riforma la **scuola pubblica** prolungandone il periodo obbligatorio.
+Statalizza la scuola elementare, fin allora a carico dei comuni.
+Questo provoca una netta e progressiva diminuzione dell'**analfabetismo**.
+Vengono municipalizzati i servizi pubblici.
+Nel 1905 vengono nazionalizzate le ferrovie.
 
+Una delle accuse che gli oppositori lanciano contro Giolitti è quello di non aver fatto nulla per estirpare i fenomeni criminali e mafiosi diffusi nel Mezzogiorno e di aver tollerato che politici del suo schieramento facessero uso di questi metodi per raccogliere voti.
+
+Tuttavia Giolitti avvia ugualmente un piano legislativo importante per aiutare le economie meridionali.
+Viene approvata una legge per la costruzione dell'Acquedotto Pugliese.
+Nel 1904 vengono approvati i **Provvedimenti speciali per Napoli**, compresi sgravi fiscali sui beni di consumo.
+Vengono presi provvedimenti anche per la Basilicata, che verranno poi estesi a tutte le province meridionali.
+
+Gli interventi socio-economici attuati dai vari governi di inizio Novecento possono essere riassunti come segue:
+
+#. si sostengono direttamente le **industrie**, soprattutto quelle siderurgiche e meccaniche (Usate dallo Stato per il potenziamento di esercito e marina);
+#. una nuova politica sociale introduce norme di protezione e **previdenza sociale** per i lavoratori e riduce l'uso della forza pubblica per risolvere i conflitti di lavoro;
+   l'aumento degli scioperi comporta un aumento delle retribuzioni e ciò comporta un aumento della domanda dei beni di consumo;
+#. questa dinamica è favorita anche da altri interventi (**nazionalizzazione** delle ferrovie; **municipalizzazione** dei servizi), che hanno come effetto la riduzione delle tariffe;
+#. importanti interventi speciali offrono aiuti talora decisivi alle economie agricole e industriali dell'**Italia meridionale**.
+
+Tra il 1899 e il 1914 l'economia italiana attraversa una stagione felice con un andamento positivo del PIL.
+
+Il progetto giolittiano vuole includere stabilmente la Sinistra entro il quadro politico dominato dai liberali.
+
+Nel 1906 viene costituita la Confederazione Generale del Lavoro (Cgl), organo centrale di coordinamento di tutte le varie associazioni sindacali di orientamento socialista.
+
+## Anni cruciali per l'Italia: 1911-13
+
+Le celebrazioni per il cinquantenario culminano con l'inaugurazione del **Vittoriano**.
+
+In quello stesso 1911, sfruttando una grave crisi scoppiata all'interno dell'Impero ottomano, il governo Giolitti decide di attaccarlo militarmente per impossessarsi della Libia, territorio ancora sotto sovranità ottomana.
+Senza consultare il Parlamento manda un _ultimatum_ all'Impero e ai primi d'ottobre del 1911 autorizza l'attacco militare.
+Nell'aprile del 1912 la flotta italiana attacca e occupa le Isole del Dodecaneso, nell'Egeo.
+L'Impero ottomano decide di cedere: il trattato di pace, firmato a Losanna il 18 ottobre 1912, riconosce la sovranità italiana in Libia.
+
+Nel 1912 secondo una nuova legge diventano elettori i maschi di oltre 21 anni capaci di leggere e scrivere, e i maschi analfabeti che abbiano compiuto i trent'anni e abbiano fatto il servizio militare.
+Nel 1913 ci sono le prime elezioni a suffragio universale maschile.
+
+In questo periodo il Psi è dominato da una maggioranza favorevole agli intransigenti, cioè alla sinistra radicale e rivoluzionaria, guidata da **Benito Mussolini**.
+Egli dal novembre del 1912 assume anche la direzione dell'"Avanti!", il giornale del partito.
 
 
 
