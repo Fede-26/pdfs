@@ -85,9 +85,13 @@ _"e a quel colle sotto ’l qual tu nascesti parve amaro."_
 ## L'età imperiale (55-96)
 
 - Nel periodo vicino alla nascita di Cristo, l'aquila venne presa in mano da Cesare, che realizzò straordinarie imprese.
+
 - Il suo successore Augusto portò l'aquila fino al Mar Rosso, garantendo a Roma la pace.
+
 - Con il terzo imperatore, Tiberio, si ebbe la crocifissione di Cristo.
+
 - Successivamente Tito conquistò di Gerusalemme.
+
 - Poi Carlo Magno soccorse la Chiesa di Roma quando fu minacciata dai Longobardi.
 
 ---
