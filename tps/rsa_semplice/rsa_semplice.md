@@ -64,7 +64,7 @@ L'ordine di un gruppo finito $(G, \otimes)$, indicata con $o(G)$ è la cardinali
 Un gruppo finito è **ciclico** quando hanno almeno un elemento che applicato all'operazione del gruppo un determinato numero di volte può generare tutti gli altri elementi del gruppo stesso.
 
 $$
-\text{Se } \exists g, n \in G : \forall a \in G, a = g \otimes g \otimes ... \otimes g \text{ [}n \text{ volte]} = g^n \Rightarrow G \text{ è ciclico}
+\text{Se } \exists g, n \in G : \forall a \in G, a = g \otimes g \otimes \dots \otimes g \text{ [}n \text{ volte]} = g^n \Rightarrow G \text{ è ciclico}
 $$
 
 Se un gruppo è _commutativo_ allora ha almeno un generatore (e viceversa).
@@ -72,4 +72,63 @@ Se un gruppo è _commutativo_ allora ha almeno un generatore (e viceversa).
 Prendendo $(x)$ l'insieme degli elementi generati da $x$: 
 $$
 \forall x \in G , (x) = H \subseteq G
+$$
+
+# Lemmi
+
+## L'elemento neutro di un gruppo è unico
+
+Dimostrazione:
+$$
+\exists \, e, f : e \neq f : \forall a \in G \Rightarrow e + a = a + e = f + a = a + f = a \Rightarrow e = e+f = f
+$$
+
+## Leggi di cancellazione
+
+Dato un gruppo $G$ e tre elementi $a$, $x$, $y$ appartenenti a $G$ se $a+x=a+y \Rightarrow x=y$, e viceversa, se $x+a=y+a \Rightarrow x=y$.
+
+Dimostrazione:
+$$
+x = e+x=(b+a)+x = b+(a+x) = b+(a+y) = (b+a)+y = e+y = y
+$$
+
+## Unicità dell'inverso
+
+$$
+\forall a \in G \exists! b \in G : b + a = a + b = e
+$$
+
+Dimostrazione:
+$$
+\begin{aligned}
+\forall a \in G \exists b, c \in G : b &= \overline{a} \land c = \overline{a} \land b \neq c \\
+e &= a+b \land e = a+c \\
+b &= c
+\end{aligned}
+$$
+
+## L'inverso dell'inverso è l'elemento stesso
+
+$$
+\forall a \in G : \overline{(\overline{a})} = a
+$$
+
+Dimostrazione:
+$$
+\begin{aligned}
+b &= \overline{a} \\
+\overline{b} + b& = e \\
+\overline{b} + \overline{a} &= e \\
+\overline{b} + \overline{a} + a &= e + a \\
+\overline{b} + e &= a \\
+\overline{b} &= a \\
+\overline{(\overline{a})} &= a
+\end{aligned}
+$$
+
+## $\overline{(a+b)} = \overline{b} + \overline{a}$
+
+Dimostrazione:
+$$
+(\overline{b} + \overline{a}) + (a+b) = \overline{b} +(\overline{a} + (a+b) = \overline{b} + (\overline{a} +a ) +b = \overline{b} + e + b = \overline{b} + b = e
 $$
