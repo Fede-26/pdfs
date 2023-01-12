@@ -62,6 +62,15 @@ Egli aveva aderito all'_eresia monofisita_, ma fu ricondotto alla vera fede da P
 
 ---
 
+# La figura di Giustiniano
+
+Stuff
+Restauratio imperii
+
+Corpus iuris civilis
+
+---
+
 # Digressione sull'Impero (28-36)
 
 Giustiniano fa un aggiunta, affinchè il poeta si renda conto dell'errore di chi si oppone al simbolo sacro dell'aquila (**Guelfi**) e coloro che se ne appropriano (**Ghibellini**).
@@ -82,23 +91,9 @@ _"e a quel colle sotto ’l qual tu nascesti parve amaro."_
 
 ---
 
-## L'età imperiale (55-96)
-
-- Nel periodo vicino alla nascita di Cristo, l'aquila venne presa in mano da Cesare, che realizzò straordinarie imprese.
-
-- Il suo successore Augusto portò l'aquila fino al Mar Rosso, garantendo a Roma la pace.
-
-- Con il terzo imperatore, Tiberio, si ebbe la crocifissione di Cristo.
-
-- Successivamente Tito conquistò di Gerusalemme.
-
-- Poi Carlo Magno soccorse la Chiesa di Roma quando fu minacciata dai Longobardi.
-
----
-
 # <!--fit-->Invettiva contro Guelfi e Ghibellini (97-111)
 
-Giustiniano invita Dante a giudicare l'operato di Guelfi e Ghibellini.
+Giustiniano infine invita Dante a giudicare l'operato di Guelfi e Ghibellini.
 
 I primi si oppongono dell'aquila appoggiandosi ai gigli d'oro della casa di Francia, i secondi se ne appropriano, per cui è arduo stabilire chi dei due sbagli di più.
 
@@ -121,10 +116,11 @@ Diverse voci producono dolci melodie, e così i vari beati producono un'armonia 
 
 # Romeo di Villanova (127-142)
 
-Giustiniano indica a Dante l'anima di **Romeo di Villanova**, la cui grande opera fu sgradita ai Provenzali, che tuttavia hanno pagato cara la loro ingratitudine nei suoi confronti.
+Giustiniano indica a Dante l'anima di **Romeo di Villanova**.
 
-Raimondo Berengario IV, conte di Provenza, ebbe quattro figlie e grazie a Romeo tutte furono regine.
-Inoltre fece aumentare le rendite statali e attiro l'invidia dei signori provenzali che lo accusarono di _concussione_.
+Egli secondo una leggenda, riportata da Giovanni Villani, sarebbe stato un oscuro pellegrino che, di ritorno da Santiago di Compostela, sarebbe entrato a servizio di **Raimondo Berengario IV**, conte di Provenza, dando prova di capacità e onestà con i propri consigli.
+Berengario ebbe quattro figlie e grazie a Romeo tutte divennero regine.
+Fece aumentare le rendite statali e attiro l'invidia dei signori provenzali che lo accusarono di _concussione_.
 Egli allora ripartì impoverito e vecchio.
 
 ---
