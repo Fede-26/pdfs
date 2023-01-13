@@ -46,10 +46,6 @@ Federico Zotti - 5Ai
 
 - Dante, Beatrice, l'imperatore Giustiniano, Romeo di Villanova;
 
-- altro #TODO rimuovere
-
-- Controllare i tempi verbali
-
 ---
 
 # Giustiniano narra la sua vita (1-27)
@@ -64,24 +60,43 @@ Egli aveva aderito all'_eresia monofisita_, ma fu ricondotto alla vera fede da P
 
 # La figura di Giustiniano
 
-Stuff
-Restauratio imperii
+Giustiniano I il Grande, è stato un imperatore bizantino, dal 527 sino al 565.
 
-Corpus iuris civilis
+Cerco di compiere la _**Restauratio Imperii**_: la riconquista del territorio appartenente al crollato Impero Romano d'Occidente.
+
+Fu anche l'ideatore del _**Corpus iuris civilis**_, la raccolta di materiale normativo e materiale giurisprudenziale di diritto romano atta a riordinare il sistema giuridico dell'impero bizantino.
 
 ---
 
-# Digressione sull'Impero (28-36)
+<!--
+_class:
+  - lead
+-->
+
+# Restauratio Imperii
+
+![w:1000](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Justinien_527-565.svg/1920px-Justinien_527-565.svg.png)
+
+---
+
+# Versi 10-12
+<br>
+
+_Cesare fui e son Iustiniano, 
+che, per voler del primo amor ch’i’ sento, 
+d’entro le leggi trassi il troppo e ‘l vano._
+
+<br>
+
+Fui imperatore romano e mi chiamo Giustiniano:
+sono colui che, ispirato dallo Spirito Santo,
+eliminai dalle leggi ciò che era superfluo e ciò che era inutile.
+
+---
+
+# Digressione sull'Impero (28-54)
 
 Giustiniano fa un aggiunta, affinchè il poeta si renda conto dell'errore di chi si oppone al simbolo sacro dell'aquila (**Guelfi**) e coloro che se ne appropriano (**Ghibellini**).
-
-Questo simbolo è degno del massimo rispetto, da quando Pallante morì per assicurare la vittoria di Enea (inizio dell'Impero romano).
-
----
-
-# Storia dell'aquila
-
-## Dai re alla Repubblica (37-54)
 
 Giustiniano ripercorre le vicende storiche dell'aquila imperiale, simbolo centrale della forza dell'impero (capitale).
 
@@ -107,8 +122,8 @@ Dio non cambierà certo il simbolo dell'aquila con quello dei gigli della monarc
 
 Giustiniano risponde alla seconda domanda di Dante e spiega che il Cielo di Mercurio ospita gli spiriti che in vita hanno perseguito onore e fama.
 
-Quando i desideri sono rivolti alla gloria terrena si ricerca minormente l'amor divino.
-Tuttavia lui e gli altri beati sono felici della loro condizione, in quanto i premi sono commisurati al loro merito.
+Quando i desideri sono rivolti alla gloria terrena si ricerca minormente l'amore divino.
+Tuttavia lui e gli altri beati sono felici della loro condizione, in quanto la giustizia divina non permette che abbiano pensieri negativi.
 
 Diverse voci producono dolci melodie, e così i vari beati producono un'armonia nelle sfere celesti.
 
