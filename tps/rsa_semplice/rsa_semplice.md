@@ -132,3 +132,20 @@ Dimostrazione:
 $$
 (\overline{b} + \overline{a}) + (a+b) = \overline{b} +(\overline{a} + (a+b) = \overline{b} + (\overline{a} +a ) +b = \overline{b} + e + b = \overline{b} + b = e
 $$
+
+# Sottogruppi
+
+$G \to H$ è sottogruppo.
+
+$$
+a \in G \quad \left{ h \otimes a \forall h \in H \right} := H \otimes a
+$$
+
+
+$$
+n \in \mathbb{N} \quad \varphi{n} = \text{numero}
+$$
+
+$$
+n = p \cdot q \Rightarrow \varphi(n) = (p-1)(q-1)
+$$
