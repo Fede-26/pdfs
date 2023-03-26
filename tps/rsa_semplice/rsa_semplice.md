@@ -135,12 +135,15 @@ $$
 
 # Sottogruppi
 
+> Da rivedere
+
 $G \to H$ è sottogruppo.
 
-$$
-a \in G \quad \left{ h \otimes a \forall h \in H \right} := H \otimes a
-$$
+<!--Fixare queste formule, non sono sicure che funzionino -->
 
+$$
+a \in G  \quad { h \otimes a \forall h \in H}:= H \otimes a
+$$
 
 $$
 n \in \mathbb{N} \quad \varphi{n} = \text{numero}
@@ -149,3 +152,80 @@ $$
 $$
 n = p \cdot q \Rightarrow \varphi(n) = (p-1)(q-1)
 $$
+
+# Teorema di Lagrange
+
+...
+
+# Teorema di Eulero
+
+Sia $a$ un numero intero e $n$ un numero naturale coprimi fra loro, allora $a^{\varphi(n)} \equiv 1 \mod n$.
+
+$$
+\forall a, n \in \mathbb{N} : a \perp n \Rightarrow a^{\varphi(n)} \equiv 1 \mod n
+$$
+
+Due casi fondamentali:
+
+#. $a$ è multiplo di $p$, ovvero $\exists n \in \mathbb{N} : a = n \cdot p$.
+#. altro
+
+# Piccolo teorema di Fermat
+
+$$
+a^p \equiv a \mod p
+$$
+
+Altro (esercizietti) (roba da sistemare):
+
+$$
+a^{\varphi{p}} \mod p = 1 \Rightarrow a^{p-1} \mod p = 1
+$$
+
+$$
+(a^{p-1}\mod p) \cdot a\mod p + 1 \cdot a \mod p
+$$
+
+$$
+a^p \mod p = a \mod p
+$$
+
+Diciamo che l'abbiamo dimostrata...
+
+## Piccolo teorema di Fermat generalizzato
+
+...
+
+## Generalizzare il teorema di Eulero
+
+$$
+a^{k \varphi(n)} \mod n \equiv 1; \, k \in \mathbb{N}, (a, n) = 1
+$$
+
+> "Eccolo qua".
+
+## Generalizzare il piccolo teorema di Fermat
+
+<!-- Questo è sbagliato -->
+
+Dato un numero primo $p$ e un secondo numero e tale che $e \equiv 1 \mod (p-1)$ allora per qualsiasi intero $m$ si ha $m^e \equiv m \mod p$.
+
+$$
+\forall p, e : p \text{ è primo}, e \equiv 1 \mod (p-1) \Rightarrow \forall m \in \mathbb{N}, m^e \equiv m \mod p
+$$
+
+> "Ci sono ancora un bel po' di dettagli da sistemare, ma per oggi va bene così"
+
+> Io non ce la faccio più
+
+> Andiamo a casa dai
+
+> che poi questo è il file che metto sul sito
+
+...
+
+# Perchè funziona
+
+...
+non funziona
+<!-- Oggi se riesco lo sistemo un po'-->
