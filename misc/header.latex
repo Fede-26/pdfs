@@ -1,0 +1,192 @@
+%----------------
+% Geometry config
+%----------------
+\usepackage{setspace}
+\linespread{1.5}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{microtype}
+
+% Avoid splitting sections, use pagebreaks
+
+%--------------
+% Colors config
+%--------------
+\usepackage{fontspec}
+\usepackage{xcolor}
+\let\oldtextbf\textbf
+\renewcommand\textbf[1]{{\color{purple}\oldtextbf{#1}}}
+\let\oldemph\emph
+\renewcommand\emph[1]{{\color{violet}\oldemph{#1}}}
+
+%------------
+% Math config
+%------------
+\usepackage{mathrsfs}
+\usepackage{braket}
+\usepackage{unicode-math}
+
+\setmathfont{Libertinus Math}
+
+
+%------------------------------------------------------------------
+% Define custom commands to get current section and subsection name
+%------------------------------------------------------------------
+\let\Chaptermark\chaptermark
+\def\chaptermark#1{\def\Chaptername{#1}\Chaptermark{#1}}
+\let\Sectionmark\sectionmark
+\def\sectionmark#1{\def\Sectionname{#1}\Sectionmark{#1}}
+\let\Subsectionmark\subsectionmark
+\def\subsectionmark#1{\def\Subsectionname{#1}\Subsectionmark{#1}}
+\let\Subsubsectionmark\subsubsectionmark
+\def\subsubsectionmark#1{\def\Subsubsectionname{#1}\Subsubsectionmark{#1}}
+
+% ----------------------------------------------------------------------
+%           User Top Level Packages: Required
+% ----------------------------------------------------------------------
+
+\usepackage{marginnote,sidenotes,geometry}
+\usepackage[many]{tcolorbox}
+
+% ----------------------------------------------------------------------
+%           User Top Level Packages: Additional & Styling
+% ----------------------------------------------------------------------
+
+%\usepackage{mathtools,amsthm,amssymb,amsfonts,bm}   % Math Presets
+%\usepackage{thmtools,amsmath}
+%\usepackage{array,tabularx,booktabs}                % Table Presets
+\usepackage{graphicx,wrapfig,float,caption}         % Figure Presets
+\usepackage{setspace,multicol}                      % Text Presets
+%\usepackage{tikz}                                   % Physics Presets
+%\usetikzlibrary{graphs,graphdrawing,arrows.meta}
+%\usegdlibrary{trees}
+
+
+
+
+
+% ----------------------------------------------------------------------
+%           User Created Environments 
+% ----------------------------------------------------------------------
+
+\newtcolorbox{teorema}{
+  boxrule=0pt,
+  boxsep=0pt,
+  colback={White!90!Dandelion},
+  enhanced jigsaw, 
+  borderline west={1pt}{0pt}{Dandelion},
+  sharp corners,
+  before skip=20pt,
+  after skip=20pt,
+  left=5pt,
+  right=5pt,
+  breakable,
+%  colbacktitle={White!90!Dandelion},
+%  title={\textbf{Teo:}},
+}
+
+\newtcolorbox{dimostrazione}{
+  boxrule=0pt,
+  boxsep=0pt,
+  blanker,
+  borderline west={1pt}{0pt}{NavyBlue!80!white},
+  before skip=20pt,
+  after skip=20pt,
+  left=5pt,
+  right=5pt,
+  breakable,
+}
+
+\newtcolorbox{definizione}{
+  boxrule=0pt,
+  boxsep=0pt,
+  colback={White!90!Apricot},
+  enhanced jigsaw, 
+  borderline west={1pt}{0pt}{Apricot},
+  sharp corners,
+  before skip=20pt,
+  after skip=20pt,
+  left=5pt,
+  right=5pt,
+  breakable,
+}
+
+\newtcolorbox{newlemma}{
+  boxrule=0pt,
+  boxsep=0pt,
+  colback={White!95!Red},
+  enhanced jigsaw, 
+  borderline west={1pt}{0pt}{Red},
+  sharp corners,
+  before skip=20pt,
+  after skip=20pt,
+  left=5pt,
+  right=5pt,
+  breakable,
+}
+
+%\newtcolorbox{newlemma}{
+%  boxrule=0pt,
+%  boxsep=0pt,
+%  blanker,
+%  enhanced jigsaw,
+%  borderline west={1pt}{0pt}{Red},
+%  before skip=10pt,
+%  after skip=10pt,
+%  sharp corners,
+%  left=5pt,
+%  right=5pt,
+%  breakable,
+%}
+
+\newtcolorbox{esempio}{
+  boxrule=0pt,
+  boxsep=0pt,
+  blanker,
+  borderline west={1pt}{0pt}{Black},
+  sharp corners,
+  before skip=20pt,
+  after skip=20pt,
+  left=5pt,
+  right=5pt,
+  breakable,
+}
+
+\newtcolorbox{esercizio}{
+  boxrule=0pt,
+  boxsep=0pt,
+  blanker,
+  borderline west={1pt}{0pt}{Gray},
+  sharp corners,
+  before skip=20pt,
+  after skip=20pt,
+  left=5pt,
+  right=5pt,
+  breakable,
+}
+
+\newtcolorbox{osservazione}{
+  boxrule=0pt,
+  boxsep=0pt,
+  blanker,
+  borderline west={1pt}{0pt}{Green},
+  sharp corners,
+  before skip=20pt,
+  after skip=20pt,
+  left=5pt,
+  right=5pt,
+  breakable,
+}
+
+\newtcolorbox{warningbox}{
+  boxrule=0pt,
+  boxsep=0pt,
+  colback={White!80!Orange},
+  enhanced jigsaw, 
+  borderline west={1pt}{0pt}{Orange},
+  sharp corners,
+  before skip=20pt,
+  after skip=20pt,
+  left=5pt,
+  right=5pt,
+  breakable,
+}
