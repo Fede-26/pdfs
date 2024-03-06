@@ -1,89 +1,127 @@
 <head>
-<title>PDF e Progetti</title>
-<link rel="stylesheet" href="https://latex.now.sh/style.css">
-<script async src="https://analytics.umami.is/script.js" data-website-id="0ec57c4d-3797-449c-8505-45797ace0aa1"></script>
+	<title>PDF e Progetti</title>
+	<link rel="stylesheet" href="https://latex.now.sh/style.css">
+	<script async src="https://analytics.umami.is/script.js"
+		data-website-id="0ec57c4d-3797-449c-8505-45797ace0aa1"></script>
+	<script>
+		fetch('https://api.github.com/repos/fede-26/pdfs/commits')
+			.then(response => response.json())
+			.then(data => {
+				// Get the date without the hours and minutes
+				document.getElementById('last-update').innerText = 'Last update: ' + new Date(data[0].commit.author.date).toLocaleString();
+			});
+	</script>
 </head>
 
 <body class="latex-dark-auto">
 
-<h1>PDF e Progetti</h1>
-<p class="author">Federico Zotti<br>CC-BY-NC-SA 4.0</p>
-<div class="abstract">
-  <h2>Abstract</h2>
-  <p>Questo sito raccoglie appunti di scuola e università.</p>
-  <p>Per creare i pdf è stato usato pandoc, a volte anche il template <a href="https://github.com/enhuiz/eisvogel">eisvogel</a> e degli <a href="misc/header.latex">header</a> utilizzati insieme a un <a href="misc/lecture_template.md">template markdown</a> creati da me.</p>
-  <p>Il tema di questo sito invece è <a href="https://latex.vercel.app/">latex.css</a>.</p>
-  <p>Per problemi, errori, segnalazioni o altro è possibile aprire una issue <a href='https://github.com/fede-26/pdfs/issues'>qui</a>.</p><br/>
-  <p>I documenti contrassegnati da <i>#card</i> contengono delle flashcards. Per utilizzarle con anki è possibile utilizzare il plugin <a href='https://github.com/reuseman/flashcards-obsidian'>reuseman/flashcards-obsidian</a> per obsidian.</p>
-</div>
+	<h1>PDF e Progetti</h1>
+	<p class="author">Federico Zotti<br>CC-BY-NC-SA 4.0<br><span id="last-update">Last update: loading...</span></p>
 
-<h2>Link personali</h2>
-<ul>
-	<li><a href='https://7-bit.xyz'>Blog</a></li>
-	<li><a href='https://github.com/Fede-26'>Github</a></li>
-</ul>
+	<div class="abstract">
+		<h2>Abstract</h2>
+		<p>Questo sito raccoglie appunti di scuola e università.</p>
+		<p>Per creare i pdf è stato usato pandoc, a volte anche il template <a
+				href="https://github.com/enhuiz/eisvogel">eisvogel</a> e degli <a href="misc/header.latex">header</a>
+			utilizzati insieme a un <a href="misc/lecture_template.md">template markdown</a> creati da me.</p>
+		<p>Il tema di questo sito invece è <a href="https://latex.vercel.app/">latex.css</a>.</p>
+		<p>Per problemi, errori, segnalazioni o altro è possibile aprire una issue <a
+				href='https://github.com/fede-26/pdfs/issues'>qui</a>.</p><br />
+		<p>I documenti contrassegnati da <i>#card</i> contengono delle flashcards. Per utilizzarle con anki è possibile
+			utilizzare il plugin <a
+				href='https://github.com/reuseman/flashcards-obsidian'>reuseman/flashcards-obsidian</a> per obsidian.
+		</p>
+	</div>
 
-<br>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="7bit" data-color="#FF5F5F" data-emoji="🍺"  data-font="Inter" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-<br>
-
-<h2>Appunti universitari</h2>
-
-<h3>Anno I, Semestre I</h3>
-<ul>
-	<li>Appunti di analisi matematica <a href='uni/1-anno_1-sem/analisi-i.pdf'>[pdf]</a> <i>Completati</i></li>
-	<li>Appunti di fondamenti dell'informatica <a href='uni/1-anno_1-sem/fondamenti-dell-informatica.pdf'>[pdf]</a> <i>Completati</i></li>
-</ul>
-
-<h3>Anno I, Semestre II</h3>
-<ul>
-	<li>Appunti di algoritmi e strutture dati <a href='uni/1-anno_2-sem/algoritmi-e-strutture-dati.pdf'>[pdf]</a> <i>Da finire</i></li>
-	<li>Appunti di algebra lineare <a href='uni/1-anno_2-sem/geometria-e-algebra-lineare.pdf'>[pdf]</a> <i>Da finire</i></li>
-	<li>Appunti di architettura degli elaboratori <a href='uni/1-anno_2-sem/architettura-degli-elaboratori.pdf'>[pdf]</a> <i>Da finire</i></li>
-	<li>Appunti di programmazione 2 <a href='uni/1-anno_2-sem/programmazione-2.pdf'>[pdf]</a> <i>Da finire</i></li> 
-</ul>
-
-<h3>Vari</h3>
-<ul>
-	<li>Sintesi salvamatricole informatica <a href='uni/various/salvamatricole-sintesi.pdf'>[pdf]</a></li>
-</ul>
-
-<h2>Appunti delle superiori</h2>
-
-<h3>Vari</h3>
-<ul>
-	<li>Matematica teoria <a href='superiori/matematica/Matematica_teoria.md'>[md]</a> <a href='superiori/matematica/Matematica_teoria.pdf'>[pdf]</a></li>
-	<li>Prima guerra mondiale (<i>incompleto</i>) <a href='superiori/storia/WWI.md'>[md]</a> <a href='superiori/storia/WWI.pdf'>[pdf]</a></li>
-	<li>Divina Commedia: Canto VI - Paradiso [presentazione] <a href='superiori/divinaCommedia/CantoVI-Paradiso-presentazione.md'>[md]</a> <a href='superiori/divinaCommedia/CantoVI-Paradiso-presentazione.pdf'>[pdf]</a></li>
+	<h2>Link personali</h2>
+	<ul>
+		<li><a href='https://7-bit.xyz'>Blog</a></li>
+		<li><a href='https://github.com/Fede-26'>Github</a></li>
 	</ul>
-	
-<h3>Anki decks</h3>
-<ul>
-    <li>Inglese "Information Technology" <a href='superiori/inglese/information-technology-anki.apkg'>[apkg]</a></li>
-    <li>Prima guerra mondiale <a href='superiori/storia/prima-guerra-mondiale.apkg'>[apkg]</a></li>
-    <li>Gestione e Progetto <a href='superiori/gestioneprogetto/anki.apkg'>[apkg]</a></li>
-</ul>
 
-<h3>Gestione, Progetto e Organizzazione d'Impresa</h3>
-<ul>
-	<li>Economia <i>#card</i> <a href='superiori/gestioneprogetto/Economia.md'>[md]</a></li>
-</ul>
+	<br>
+	<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button"
+		data-slug="7bit" data-color="#FF5F5F" data-emoji="🍺" data-font="Inter" data-text="Buy me a beer"
+		data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00"></script>
+	<br>
 
-<h3>TPS e Sistemi</h3>
-<ul>
-	<li>RSA semplice (<i>incompleto</i>) <a href='superiori/tps/rsa_semplice/rsa_semplice.md'>[md]</a> <a href='superiori/tps/rsa_semplice/rsa_semplice.pdf'>[pdf]</a></li>
-	<li>Algoritmo Diffie-Hellman <a href='superiori/tps/diffie-hellman/diffie-hellman.ipynb'>[ipynb]</a> <a href='superiori/tps/diffie-hellman/diffie-hellman.md'>[md]</a> <a href='superiori/tps/diffie-hellman/diffie-hellman.html'>[html]</a></li>
-	<li>Cifrario di Vigenère <a href='superiori/tps/vigenere/vigenere.ipynb'>[ipynb]</a> <a href='superiori/tps/vigenere/vigenere.html'>[html]</a></li>
-	<li>ISO OSI Livello Datalink (<i>incompleto</i>) <a href='superiori/tps/ISO-OSI_Livello-datalink/ISO-OSI_Livello-datalink.md'>[md]</a> <a href='superiori/tps/ISO-OSI_Livello-datalink/ISO-OSI_Livello-datalink.pdf'>[pdf]</a></li>
-	<li>ISO OSI Livello Fisico <a href='superiori/tps/ISO-OSI_Livello-fisico/ISO-OSI_Livello-fisico.md'>[md]</a> <a href='superiori/tps/ISO-OSI_Livello-fisico/ISO-OSI_Livello-fisico.pdf'>[pdf]</a></li>
-	<li>Sistemi Operativi <a href='superiori/tps/Sistemi-operativi/Sistemi-operativi.md'>[md]</a> <a href='superiori/tps/Sistemi-operativi/Sistemi-operativi.pdf'>[pdf]</a></li>
-  <li>Basi della Programmazione Assembly <a href='superiori/tps/Assembly/Assembly.md'>[md]</a> <a href='superiori/tps/Assembly/Assembly.pdf'>[pdf]</a></li>
-  <li>Processi e Sistema Operativo <a href='superiori/tps/processo/processo.md'>[md]</a> <a href='superiori/tps/processo/processo.pdf'>[pdf]</a></li>
-</ul>
+	<h2>Appunti universitari</h2>
 
-<div class="abstract">
-<!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />-->
+	<h3>Anno I, Semestre I</h3>
+	<ul>
+		<li>Appunti di analisi matematica <a href='uni/1-anno_1-sem/analisi-i.pdf'>[pdf]</a> <i>Completati</i></li>
+		<li>Appunti di fondamenti dell'informatica <a href='uni/1-anno_1-sem/fondamenti-dell-informatica.pdf'>[pdf]</a>
+			<i>Completati</i></li>
+	</ul>
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-</div>
+	<h3>Anno I, Semestre II</h3>
+	<ul>
+		<li>Appunti di algoritmi e strutture dati <a href='uni/1-anno_2-sem/algoritmi-e-strutture-dati.pdf'>[pdf]</a>
+			<i>Da finire</i></li>
+		<li>Appunti di algebra lineare <a href='uni/1-anno_2-sem/geometria-e-algebra-lineare.pdf'>[pdf]</a> <i>Da
+				finire</i></li>
+		<li>Appunti di architettura degli elaboratori <a
+				href='uni/1-anno_2-sem/architettura-degli-elaboratori.pdf'>[pdf]</a> <i>Da finire</i></li>
+		<li>Appunti di programmazione 2 <a href='uni/1-anno_2-sem/programmazione-2.pdf'>[pdf]</a> <i>Da finire</i></li>
+	</ul>
+
+	<h3>Vari</h3>
+	<ul>
+		<li>Sintesi salvamatricole informatica <a href='uni/various/salvamatricole-sintesi.pdf'>[pdf]</a></li>
+	</ul>
+
+	<h2>Appunti delle superiori</h2>
+
+	<h3>Vari</h3>
+	<ul>
+		<li>Matematica teoria <a href='superiori/matematica/Matematica_teoria.md'>[md]</a> <a
+				href='superiori/matematica/Matematica_teoria.pdf'>[pdf]</a></li>
+		<li>Prima guerra mondiale (<i>incompleto</i>) <a href='superiori/storia/WWI.md'>[md]</a> <a
+				href='superiori/storia/WWI.pdf'>[pdf]</a></li>
+		<li>Divina Commedia: Canto VI - Paradiso [presentazione] <a
+				href='superiori/divinaCommedia/CantoVI-Paradiso-presentazione.md'>[md]</a> <a
+				href='superiori/divinaCommedia/CantoVI-Paradiso-presentazione.pdf'>[pdf]</a></li>
+	</ul>
+
+	<h3>Anki decks</h3>
+	<ul>
+		<li>Inglese "Information Technology" <a href='superiori/inglese/information-technology-anki.apkg'>[apkg]</a>
+		</li>
+		<li>Prima guerra mondiale <a href='superiori/storia/prima-guerra-mondiale.apkg'>[apkg]</a></li>
+		<li>Gestione e Progetto <a href='superiori/gestioneprogetto/anki.apkg'>[apkg]</a></li>
+	</ul>
+
+	<h3>Gestione, Progetto e Organizzazione d'Impresa</h3>
+	<ul>
+		<li>Economia <i>#card</i> <a href='superiori/gestioneprogetto/Economia.md'>[md]</a></li>
+	</ul>
+
+	<h3>TPS e Sistemi</h3>
+	<ul>
+		<li>RSA semplice (<i>incompleto</i>) <a href='superiori/tps/rsa_semplice/rsa_semplice.md'>[md]</a> <a
+				href='superiori/tps/rsa_semplice/rsa_semplice.pdf'>[pdf]</a></li>
+		<li>Algoritmo Diffie-Hellman <a href='superiori/tps/diffie-hellman/diffie-hellman.ipynb'>[ipynb]</a> <a
+				href='superiori/tps/diffie-hellman/diffie-hellman.md'>[md]</a> <a
+				href='superiori/tps/diffie-hellman/diffie-hellman.html'>[html]</a></li>
+		<li>Cifrario di Vigenère <a href='superiori/tps/vigenere/vigenere.ipynb'>[ipynb]</a> <a
+				href='superiori/tps/vigenere/vigenere.html'>[html]</a></li>
+		<li>ISO OSI Livello Datalink (<i>incompleto</i>) <a
+				href='superiori/tps/ISO-OSI_Livello-datalink/ISO-OSI_Livello-datalink.md'>[md]</a> <a
+				href='superiori/tps/ISO-OSI_Livello-datalink/ISO-OSI_Livello-datalink.pdf'>[pdf]</a></li>
+		<li>ISO OSI Livello Fisico <a href='superiori/tps/ISO-OSI_Livello-fisico/ISO-OSI_Livello-fisico.md'>[md]</a> <a
+				href='superiori/tps/ISO-OSI_Livello-fisico/ISO-OSI_Livello-fisico.pdf'>[pdf]</a></li>
+		<li>Sistemi Operativi <a href='superiori/tps/Sistemi-operativi/Sistemi-operativi.md'>[md]</a> <a
+				href='superiori/tps/Sistemi-operativi/Sistemi-operativi.pdf'>[pdf]</a></li>
+		<li>Basi della Programmazione Assembly <a href='superiori/tps/Assembly/Assembly.md'>[md]</a> <a
+				href='superiori/tps/Assembly/Assembly.pdf'>[pdf]</a></li>
+		<li>Processi e Sistema Operativo <a href='superiori/tps/processo/processo.md'>[md]</a> <a
+				href='superiori/tps/processo/processo.pdf'>[pdf]</a></li>
+	</ul>
+
+	<div class="abstract">
+		<!--<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />-->
+
+		This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+			Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+		</div>
 </body>
