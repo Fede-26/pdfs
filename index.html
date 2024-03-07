@@ -8,7 +8,7 @@
 			.then(response => response.json())
 			.then(data => {
 				// Get the date without the hours and minutes
-				document.getElementById('last-update').innerText = 'Last update: ' + new Date(data[0].commit.author.date).toLocaleString();
+				document.getElementById('last-update').innerText = 'Last update: ' + new Date(data[0].commit.author.date).toLocaleString("it-IT");
 			});
 	</script>
 </head>
